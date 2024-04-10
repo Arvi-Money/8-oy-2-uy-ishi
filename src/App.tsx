@@ -1,5 +1,5 @@
 import './App.css'
-import trash from './assets/trash.svg'
+import trash from './images/trash.svg'
 import { SyntheticEvent, useState } from 'react'
 import { inputT, todosT, deleteTodoT } from './Types'
 

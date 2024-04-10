@@ -9,6 +9,7 @@ body {
 
 form {
   display: flex;
+  align-items: center;
   gap: 11px;
   margin-bottom: 60px;
 }
@@ -63,13 +64,13 @@ form .btn:hover {
 
 .todo .tasks .task {
   width: 432px;
-  height: 75px;
+  height: 55px;
   border-radius: 10px;
   background-color: rgb(21, 16, 28);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 28px 21px;
+  padding: 0px 21px;
 }
 
 .todo .tasks .task h2 {
